@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MongoDS": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "traversy_tuts",
+    "password": "",
+    "name": "MongoDS",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
